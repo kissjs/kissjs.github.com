@@ -1,0 +1,76 @@
+ul{
+  list-style-type: none;
+  margin-left: 180px;
+}
+
+ul li{
+  display: inline;
+}
+
+body{
+  background-color: black;
+}
+
+a{
+  color: #D7D7D7;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #C2C2C2;
+}
+
+#layout{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+
+#header{
+  width: 960px;
+  text-align: center;
+}
+
+#cons{
+  color: white;
+}
+
+#desc{
+  color: white;
+}
+
+#proj{
+  background-color: blue;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto
+  width: 960px;
+}
+
+.main{
+  width: 180px;
+  height: 300px;
+  border: 1px solid gray;
+  float: left;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.main h1{
+  margin-top: 50px;
+  color: White;
+}
+
+.git{
+  width:180px;
+  margin-top: 80px;
+  border-top: 1px dashed gray;
+  padding-top: 10px;
+}
+
+.label{
+  display: block;
+  font-size: 16px;
+  height: 15px;
+}
