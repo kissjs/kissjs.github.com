@@ -11,6 +11,14 @@ body{
   background-color: black;
 }
 
+a{
+  color: #D7D7D7;
+}
+
+a:hover{
+  color: #C2C2C2;
+}
+
 #layout{
   width: 960px;
   margin-left: auto;
