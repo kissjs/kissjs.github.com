@@ -41,11 +41,20 @@ a:hover{
 }
 
 #proj{
-  background-color: blue;
   margin-top: 50px;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
   width: 960px;
+  height: 300px;
+}
+
+#sense{
+  margin-top: 80px;
+  color: white;
+  width: 850px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .main{
